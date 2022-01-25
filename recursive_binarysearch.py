@@ -25,3 +25,4 @@ if result != -1:
 else:
     print("Element not found in the array")
 
+#end
