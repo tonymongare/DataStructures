@@ -31,7 +31,7 @@ class Deque:
         return self.items == []
         
     def addRear(self, item):
-        return self.items.append(it
+        return self.items.append(items)
         
     def addFront(self, item):
         self.items.insert(0, item)
