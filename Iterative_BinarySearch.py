@@ -20,4 +20,4 @@ if result != -1:
     print("Element found at index", str(result))
 else:
     print("Element not found in the array")
-#
+#e
