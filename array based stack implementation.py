@@ -18,7 +18,7 @@ def push(stack, item):
     print("pushed item: " + item)
 
 
-# Removing an element from the stack
+# Removing an element from the sta
 def pop(stack):
     if (check_empty(stack)):
         return "stack is empty"
