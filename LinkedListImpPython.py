@@ -26,3 +26,5 @@ if __name__ == '__main__':
     while linked_list.head != None:
         print(linked_list.head.item, end=" ")
         linked_list.head = linked_list.head.next
+        
+       #
