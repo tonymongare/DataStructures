@@ -13,6 +13,6 @@ if (result == -1):
     print("Element not Found in the array")
 else:
     print("Elements found in the array at index", result)
-    /
+    
 
 
