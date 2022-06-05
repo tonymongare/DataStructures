@@ -34,4 +34,3 @@ if isFullTree(root):
 else:
     print("This is not a Full Binary Tree")
 
-//
