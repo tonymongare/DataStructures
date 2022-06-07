@@ -15,7 +15,7 @@ else:
     print("Elements found in the array at index", result)
     
 
-////
+///
 
 
 
