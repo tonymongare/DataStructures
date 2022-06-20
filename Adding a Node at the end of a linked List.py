@@ -37,6 +37,5 @@ linked_list.printlist()
 
 	
 
-	//
-/
+	
 		
