@@ -27,4 +27,4 @@ if __name__ == '__main__':
         print(linked_list.head.item, end=" ")
         linked_list.head = linked_list.head.next
         
-       #
+       
