@@ -31,7 +31,6 @@ q.enqueue(4)
 q.enqueue(5)
 
 q.display()
-////
 q.dequeue()
 
 print("After removing an element")
